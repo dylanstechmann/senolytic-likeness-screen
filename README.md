@@ -5,6 +5,8 @@ senolytic reference compounds (navitoclax, dasatinib, quercetin, fisetin,
 piperlongumine, ruxolitinib, venetoclax) using locally computed RDKit
 descriptors. Free data, free software, no paid ADMET.
 
+This is a personal hobby and learning project, developed with substantial assistance from AI coding tools.
+
 **What this is not:** an activity prediction. Descriptor neighbors of
 senolytics are simply chemically similar molecules. The score carries no
 biological, ADMET, or efficacy information — it is a triage aid for deciding
